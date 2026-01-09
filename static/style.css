@@ -1,0 +1,60 @@
+/* PRIMA SCHERMATA */
+
+body {
+    background: #242125;
+}
+
+
+.title {
+    font-family: 'Lexend Giga', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 72px;
+    color: #c31348;
+}
+
+.box-gara {
+    padding: 6px;
+    border-radius: 16px;
+    background: #343035;
+    margin: 10px;
+}
+
+.box-gara p{
+    color: #a6a6a6;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 8px;
+    position: relative;
+}
+
+.title-gara{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.align-right {
+    margin-left: auto;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-bottom: 40px;
+}
+
+.info-item{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #a6a6a6;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 14px;
+    display: flex;
+}
