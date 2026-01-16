@@ -1,4 +1,4 @@
-import asyncio, json, logging, tornado.web, tornado.websocket, db_info, random, set_db
+import asyncio, json, logging, tornado.web, tornado.websocket, db_info, random, set_db, os
 from pymongo import AsyncMongoClient
 from bson import ObjectId
 
@@ -224,7 +224,7 @@ class WSHandler(tornado.websocket.WebSocketHandler):
 
 
 async def main():
-
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     app = tornado.web.Application(
         [
             (r"/campionato-karting", IndexHandler),
@@ -234,8 +234,8 @@ async def main():
             (r"/campionato-karting/api/classifica", ClassificaFinaleAPIHandler),
             (r"/campionato-karting/([0-9a-fA-F]{24})", DetailHandler)
         ],
-        template_path="../templates",
-        static_path="../static"
+        template_path=os.path.join(project_root, "templates"),
+        static_path=os.path.join(project_root, "static")
     )
 
     app.listen(8888)

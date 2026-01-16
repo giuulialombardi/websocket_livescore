@@ -1,5 +1,5 @@
 from pymongo import AsyncMongoClient
-import json, asyncio, random, db_info
+import json, asyncio, random, db_info, os
 
 lista_gruppi = [1]*8 + [2]*8 + [3]*8 + [4]*8 + [5]*8 + [6]*8 + [7]*8 + [8]*8 + [9]*8 + [10]*8
 
@@ -14,12 +14,15 @@ class gestione_db:
     async def set_db(self):
         cont1= await self.piloti.count_documents({})
         cont2 = await self.gare.count_documents({})
+        backend_dir = os.path.dirname(os.path.abspath(__file__))
         if cont1 == 0:
-            with open("pilots.json") as f:
+            pilot_path = os.path.join(backend_dir, "pilots.json")
+            with open(pilot_path) as f:
                 data = json.load(f)
             await self.piloti.insert_many(data)
         if cont2==0:
-            with open("races.json") as f:
+            races_path = os.path.join(backend_dir, "races.json")
+            with open(races_path) as f:
                 data = json.load(f)
             await self.gare.insert_many(data)
 

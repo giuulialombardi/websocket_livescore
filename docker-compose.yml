@@ -6,11 +6,19 @@ services:
     container_name: livescore_mongo
     restart: always
     ports:
-      - "27017:27017"
+      - "27018:27017"
     volumes:
       - mongodb_data:/data/db
     environment:
       MONGO_INITDB_DATABASE: livescore
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+    networks:
+      - livescore_network
 
   web:
     build: .
@@ -23,8 +31,15 @@ services:
     environment:
       - MONGO_URL=mongodb://mongodb:27017
     depends_on:
-      - mongodb
+      mongodb:
+        condition: service_healthy
     command: python backend/server.py
+    networks:
+      - livescore_network
 
 volumes:
   mongodb_data:
+
+networks:
+  livescore_network:
+    driver: bridge
