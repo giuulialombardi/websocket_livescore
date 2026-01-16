@@ -1,0 +1,476 @@
+[
+    {
+      "nome": "Marco Rossi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Luca Bianchi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Alessandro Ferrari",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Giovanni Esposito",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Matteo Ricci",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Davide Colombo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Andrea Romano",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Simone Conti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Francesco Marino",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Lorenzo Greco",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Gabriele Bruno",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Riccardo Galli",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Stefano Costa",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Tommaso Fontana",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Daniele Moretti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Michele Barbieri",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Alessio Leone",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Fabio Lombardi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Paolo Martini",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Emanuele Gatti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Antonio Caruso",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Nicola Ferrara",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Roberto Vitale",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Giuseppe Mancini",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Cristian Santoro",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Alberto Serra",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Enrico Marchetti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Massimo Pellegrini",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Claudio Benedetti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Vincenzo Orlando",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Samuele Monti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Filippo Bianco",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Diego Sala",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Jacopo Negri",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Leonardo Villa",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Edoardo De Luca",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Manuel Pagano",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Pietro Riva",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Giulio Ferretti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Mirko Testa",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Kevin De Angelis",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Samuel Rinaldi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Christian Martinelli",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Denis Fabbri",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Alex Palumbo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Thomas Rosso",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Michael Ferraro",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Patrick Bassi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Nicolas Marchese",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Ivan Silvestri",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Omar Cattaneo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Dylan Mariani",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Bryan Longo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Nathan Rizzi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Mattia Giordano",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Cristiano Giuliani",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Federico Battaglia",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Giacomo Gallo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Davide Gentile",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Andrea Parisi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Marco Alberti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Luca De Santis",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Alessandro Bernardi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Giovanni Farina",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Matteo Sanna",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Simone Marini",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Francesco Sorrentino",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Lorenzo De Rosa",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Gabriele Martino",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Riccardo Ruggiero",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Stefano Caputo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Tommaso Grassi",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Daniele Rossetti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Michele Monti",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Alessio Bellini",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Fabio D'Angelo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Paolo Valentini",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Emanuele Rizzo",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    },
+    {
+      "nome": "Antonio Messina",
+      "punteggio": 0,
+      "gruppo": 0,
+      "posizione": 0
+    }
+]

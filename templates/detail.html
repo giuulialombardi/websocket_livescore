@@ -2,43 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Campionato Italiano Karting</title>
+    <title>{{ nome_gara }} - Campionato Italiano Karting</title>
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Symbols+Outlined" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../static/style.css">
 </head>
 <body>
-    <p class="title">NOME</p>
+    <p class="title" id="nome-gara">{{ nome_gara }}</p>
     <div class="info">
         <div class="info-item">
-            <span class="material-symbols-outlined">adjust</span>
-            <span>live</span>
+            <span class="material-symbols-outlined" id="status-icon">adjust</span>
+            <span id="status-text">{{ status }}</span>
         </div>
         <div class="info-item">
-            <span class="material-symbols-outlined">timer</span>
-            <span>time:</span>
+            <span class="material-symbols-outlined">sports_score</span>
+            <span id="circuito-text">pista: {{ circuito }}</span>
         </div>
         <div class="info-item">
             <span class="material-symbols-outlined">laps</span>
-            <span>laps:</span>
+            <span id="laps-text">giri: {{ laps }}</span>
         </div>
     </div>
-<div id="container-gare">
-    <div class="box-gara">
-        <p>
-            <span id="">1</span>
-            <span id="gara-text" class="title-gara">aaaaa</span>
-        </p>
-    </div>
-    <div class="box-gara">
-        <p>
-            <span id="">2</span>
-            <span class="title-gara">aaaaa</span>
-        </p>
-    </div>
-</div>
+    <div id="container-gare"></div>
 
+    <script>
+        const RACE_ID = "{{ race_id }}";
+        const INITIAL_STATUS = "{{ status }}";
+    </script>
+    <script src="../static/detail.js"></script>
 </body>
 </html>

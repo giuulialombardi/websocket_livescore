@@ -1,7 +1,51 @@
-/* PRIMA SCHERMATA */
 
 body {
     background: #242125;
+}
+
+.btn{
+    padding: 6px;
+    border-radius: 16px;
+    background: #343035;
+    margin: 10px;
+    color: #a6a6a6;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 14px;
+}
+
+.classifica{
+    padding: 6px;
+    border-radius: 16px;
+    background: #343035;
+    margin: 10px;
+    color: #a6a6a6;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 14px;
+}
+
+.classifica ol {
+    padding-left: 0;
+    list-style: none;
+}
+
+.classifica li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.classifica li span,
+.classifica li {
+    color: #a6a6a6;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 14px;
+}
+
+h2{
+    font-family: 'Lexend Giga', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    color: #c31348;
 }
 
 

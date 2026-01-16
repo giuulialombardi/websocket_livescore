@@ -1,0 +1,362 @@
+[
+  {
+    "nome": "Qualifiche Turno 1 - 10 vs 1",
+    "circuito": "South Garda - Lonato",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [10, 1],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 1 - 2 vs 9",
+    "circuito": "Franciacorta Karting Track - Castrezzato",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [2, 9],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 1 - 3 vs 8",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [3, 8],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 1 - 4 vs 7",
+    "circuito": "Le Sirene - Viverone",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [4, 7],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 1 - 5 vs 6",
+    "circuito": "Pista Azzurra - Borgoticino",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [5, 6],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 2 - 10 vs 9",
+    "circuito": "Winner - Nizza Monferrato",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [10, 9],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 2 - 1 vs 8",
+    "circuito": "Kart Planet - Busca",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [1, 8],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 2 - 2 vs 7",
+    "circuito": "Kart PG Corse - Genova",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [2, 7],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 2 - 3 vs 6",
+    "circuito": "Pista Ala - Ala di Trento",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [3, 6],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 2 - 4 vs 5",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [4, 5],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 3 - 10 vs 8",
+    "circuito": "South Garda - Lonato",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [10, 8],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 3 - 9 vs 7",
+    "circuito": "Franciacorta Karting Track - Castrezzato",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [9, 7],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 3 - 1 vs 6",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [1, 6],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 3 - 2 vs 5",
+    "circuito": "Le Sirene - Viverone",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [2, 5],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 3 - 3 vs 4",
+    "circuito": "Pista Azzurra - Borgoticino",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [3, 4],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 4 - 10 vs 7",
+    "circuito": "Winner - Nizza Monferrato",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [10, 7],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 4 - 8 vs 6",
+    "circuito": "Kart Planet - Busca",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [8, 6],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 4 - 9 vs 5",
+    "circuito": "Kart PG Corse - Genova",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [9, 5],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 4 - 1 vs 4",
+    "circuito": "Pista Ala - Ala di Trento",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [1, 4],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 4 - 2 vs 3",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [2, 3],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 5 - 10 vs 6",
+    "circuito": "South Garda - Lonato",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [10, 6],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 5 - 7 vs 5",
+    "circuito": "Franciacorta Karting Track - Castrezzato",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [7, 5],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 5 - 8 vs 4",
+    "status": "in programma",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "laps": 13,
+    "gruppi": [8, 4],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 5 - 9 vs 3",
+    "status": "in programma",
+    "circuito": "Le Sirene - Viverone",
+    "laps": 14,
+    "gruppi": [9, 3],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 5 - 2 vs 3",
+    "circuito": "Pista Azzurra - Borgoticino",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [2, 3],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 6 - 9 vs 1",
+    "circuito": "Winner - Nizza Monferrato",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [9, 1],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 6 - 10 vs 5",
+    "circuito": "Kart Planet - Busca",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [10, 5],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 6 - 6 vs 4",
+    "circuito": "Kart PG Corse - Genova",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [6, 4],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 6 - 7 vs 3",
+    "circuito": "Pista Ala - Ala di Trento",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [7, 3],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 6 - 8 vs 2",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [8, 2],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 7 - 10 vs 4",
+    "circuito": "South Garda - Lonato",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [10, 4],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 7 - 5 vs 3",
+    "circuito": "Franciacorta Karting Track - Castrezzato",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [5, 3],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 7 - 6 vs 2",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [6, 2],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 7 - 7 vs 1",
+    "circuito": "Le Sirene - Viverone",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [7, 1],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 7 - 8 vs 9",
+    "circuito": "Pista Azzurra - Borgoticino",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [8, 9],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 8 - 10 vs 3",
+    "circuito": "Winner - Nizza Monferrato",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [10, 3],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 8 - 4 vs 2",
+    "circuito": "Kart Planet - Busca",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [4, 2],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 8 - 5 vs 1",
+    "circuito": "Kart PG Corse - Genova",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [5, 1],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 8 - 6 vs 9",
+    "circuito": "Pista Ala - Ala di Trento",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [6, 9],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 8 - 7 vs 8",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [7, 8],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 9 - 10 vs 2",
+    "circuito": "South Garda - Lonato",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [10, 2],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 9 - 3 vs 1",
+    "circuito": "Franciacorta Karting Track - Castrezzato",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [3, 1],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 9 - 4 vs 9",
+    "circuito": "7 Laghi - Castelletto di Branduzzo",
+    "status": "in programma",
+    "laps": 12,
+    "gruppi": [4, 9],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 9 - 5 vs 8",
+    "circuito": "Le Sirene - Viverone",
+    "status": "in programma",
+    "laps": 13,
+    "gruppi": [5, 8],
+    "classifica": {}
+  },
+  {
+    "nome": "Qualifiche Turno 9 - 6 vs 7",
+    "circuito": "Pista Azzurra - Borgoticino",
+    "status": "in programma",
+    "laps": 14,
+    "gruppi": [6, 7],
+    "classifica": {}
+  }
+]
