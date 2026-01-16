@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: livescore_mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: livescore
+
+  web:
+    build: .
+    container_name: livescore_web
+    restart: always
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    environment:
+      - MONGO_URL=mongodb://mongodb:27017
+    depends_on:
+      - mongodb
+    command: python backend/server.py
+
+volumes:
+  mongodb_data:
