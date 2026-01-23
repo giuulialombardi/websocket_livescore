@@ -190,7 +190,7 @@ class PilotiAPIHandler(tornado.web.RequestHandler):
         piloti_gara = await piloti.find({"gruppo": {"$in": gruppi}}).to_list(None)
         # ritorna solo _id e nome
         result = [{"_id": str(p["_id"]), "nome": p.get("nome", f"Pilota {str(p['_id'])[-4:]}")} for p in piloti_gara]
-        self.write({"piloti": result})  # <-- mettiamo la lista dentro un dict
+        self.write({"piloti": result})
 
 
 class ClassificaFinaleAPIHandler(tornado.web.RequestHandler):
